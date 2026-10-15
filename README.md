@@ -46,7 +46,7 @@ An Arduino-based smart robot designed to navigate autonomously by tracking motio
 ```text
 Motion-Follower-Robot/
 ├── code/
-│   └── motion_follower.ino   # Main C++ Arduino sketch
+│   └── motion_follower_robot.ino   # Main C++ Arduino sketch
 ├── assets/
-│   └── circuit-diagram.png   # Breadboard schematic layout
+│   └── motion_follower_robot_video_demonstration.mp4   # working demo of the robot
 └── README.md
